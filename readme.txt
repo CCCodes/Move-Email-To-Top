@@ -1,4 +1,4 @@
-=== Move Email to Top of Checkout Fields for WooCommerce ===
+=== Move Email to Top of WooCommerce Checkout ===
 
 Contributors: caitlinchou
 Tags: woocommerce, move email to top, move email to front, move email, checkout field, email checkout field

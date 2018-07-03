@@ -1,8 +1,8 @@
 <?php
 
 /*
-Plugin Name: Move Email To Top of Checkout Fields for WooCommerce
-Description: Moves email to the top of the checkout field to capture email early.
+Plugin Name: Move Email to Top of WooCommerce Checkout
+Description: Moves email field to the top of the checkout to capture email early.
 Version: 1.0
 Author: Caitlin Chou
 License: GPL3
