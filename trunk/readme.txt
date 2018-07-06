@@ -34,7 +34,7 @@ Post in the support forum or email me at caitlinchou at gmail dot com.
 I would love to hear your input. Email me at caitlinchou at gmail dot com.
 
 == Screenshots ==
-
+1. The email input moves to the top of the checkout field.
 
 == Changelog ==
 
